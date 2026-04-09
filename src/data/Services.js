@@ -6,7 +6,7 @@ const services = [
     icon: '🧹',
     features: ['Deep steam cleaning', 'Stain removal', 'Odour elimination', 'Eco-friendly products'],
     whatsapp: { number: '26876278291', message: 'Hi Paters Investment! I am interested in your Carpet Cleaning service. Please share more details.' },
-    email: { address: 'paterseinvestment@gmail.com', subject: 'Enquiry: Carpet Cleaning Service', body: 'Hi Paters Investment,\n\nI am interested in your Carpet Cleaning service and would like to know more about pricing and availability.\n\nThank you.' },
+    email: { address: 'patersinvestment@gmail.com', subject: 'Enquiry: Carpet Cleaning Service', body: 'Hi Paters Investment,\n\nI am interested in your Carpet Cleaning service and would like to know more about pricing and availability.\n\nThank you.' },
   },
   {
     id: 2,
