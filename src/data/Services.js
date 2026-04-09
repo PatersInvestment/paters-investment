@@ -15,7 +15,7 @@ const services = [
     icon: '🐛',
     features: ['Cockroach treatment', 'Rodent control', 'Termite inspection', 'Safe for families & pets'],
     whatsapp: { number: '26876278291', message: 'Hi Paters Investment! I am interested in your Pest Control service. Please share more details.' },
-    email: { address: 'paterseinvestment@gmail.com', subject: 'Enquiry: Pest Control Service', body: 'Hi Paters Investment,\n\nI am interested in your Pest Control service and would like to know more about pricing and availability.\n\nThank you.' },
+    email: { address: 'patersinvestment@gmail.com', subject: 'Enquiry: Pest Control Service', body: 'Hi Paters Investment,\n\nI am interested in your Pest Control service and would like to know more about pricing and availability.\n\nThank you.' },
   },
   {
     id: 3,
@@ -24,7 +24,7 @@ const services = [
     icon: '🪡',
     features: ['Precise measurements', 'All carpet types', 'Clean installation', 'Residential & commercial'],
     whatsapp: { number: '26876278291', message: 'Hi Paters Investment! I am interested in your Carpet Fitting service. Please share more details.' },
-    email: { address: 'paterseinvestment@gmail.com', subject: 'Enquiry: Carpet Fitting Service', body: 'Hi Paters Investment,\n\nI am interested in your Carpet Fitting service and would like to know more about pricing and availability.\n\nThank you.' },
+    email: { address: 'patersinvestment@gmail.com', subject: 'Enquiry: Carpet Fitting Service', body: 'Hi Paters Investment,\n\nI am interested in your Carpet Fitting service and would like to know more about pricing and availability.\n\nThank you.' },
   },
   {
     id: 4,
@@ -33,7 +33,7 @@ const services = [
     icon: '🪟',
     features: ['All blind types', 'Custom sizing', 'Neat installation', 'Homes & offices'],
     whatsapp: { number: '26876278291', message: 'Hi Paters Investment! I am interested in your Window Blinds Fitting service. Please share more details.' },
-    email: { address: 'paterseinvestment@gmail.com', subject: 'Enquiry: Window Blinds Fitting Service', body: 'Hi Paters Investment,\n\nI am interested in your Window Blinds Fitting service and would like to know more about pricing and availability.\n\nThank you.' },
+    email: { address: 'patersinvestment@gmail.com', subject: 'Enquiry: Window Blinds Fitting Service', body: 'Hi Paters Investment,\n\nI am interested in your Window Blinds Fitting service and would like to know more about pricing and availability.\n\nThank you.' },
   },
   {
     id: 5,
@@ -42,7 +42,7 @@ const services = [
     icon: '✨',
     features: ['Streak-free finish', 'Interior & exterior', 'High-rise capable', 'Residential & commercial'],
     whatsapp: { number: '26876278291', message: 'Hi Paters Investment! I am interested in your Window Cleaning service. Please share more details.' },
-    email: { address: 'paterseinvestment@gmail.com', subject: 'Enquiry: Window Cleaning Service', body: 'Hi Paters Investment,\n\nI am interested in your Window Cleaning service and would like to know more about pricing and availability.\n\nThank you.' },
+    email: { address: 'patersinvestment@gmail.com', subject: 'Enquiry: Window Cleaning Service', body: 'Hi Paters Investment,\n\nI am interested in your Window Cleaning service and would like to know more about pricing and availability.\n\nThank you.' },
   },
   {
     id: 6,
@@ -51,7 +51,7 @@ const services = [
     icon: '🌿',
     features: ['Large area clearing', 'Safe disposal', 'Residential & farm land', 'Scheduled maintenance'],
     whatsapp: { number: '26876278291', message: 'Hi Paters Investment! I am interested in your Bush Clearing service. Please share more details.' },
-    email: { address: 'paterseinvestment@gmail.com', subject: 'Enquiry: Bush Clearing Service', body: 'Hi Paters Investment,\n\nI am interested in your Bush Clearing service and would like to know more about pricing and availability.\n\nThank you.' },
+    email: { address: 'patersinvestment@gmail.com', subject: 'Enquiry: Bush Clearing Service', body: 'Hi Paters Investment,\n\nI am interested in your Bush Clearing service and would like to know more about pricing and availability.\n\nThank you.' },
   },
   {
     id: 7,
@@ -60,7 +60,7 @@ const services = [
     icon: '🌱',
     features: ['Lawn mowing', 'Edging & trimming', 'Regular scheduling', 'Residential & commercial'],
     whatsapp: { number: '26876278291', message: 'Hi Paters Investment! I am interested in your Grass Cutting service. Please share more details.' },
-    email: { address: 'paterseinvestment@gmail.com', subject: 'Enquiry: Grass Cutting Service', body: 'Hi Paters Investment,\n\nI am interested in your Grass Cutting service and would like to know more about pricing and availability.\n\nThank you.' },
+    email: { address: 'patersinvestment@gmail.com', subject: 'Enquiry: Grass Cutting Service', body: 'Hi Paters Investment,\n\nI am interested in your Grass Cutting service and would like to know more about pricing and availability.\n\nThank you.' },
   },
   {
     id: 8,
@@ -69,7 +69,7 @@ const services = [
     icon: '🪲',
     features: ['Full property inspection', 'Targeted treatment', 'Prevention plans', 'Structural protection'],
     whatsapp: { number: '26876278291', message: 'Hi Paters Investment! I am interested in your Termites Control service. Please share more details.' },
-    email: { address: 'paterseinvestment@gmail.com', subject: 'Enquiry: Termites Control Service', body: 'Hi Paters Investment,\n\nI am interested in your Termites Control service and would like to know more about pricing and availability.\n\nThank you.' },
+    email: { address: 'patersinvestment@gmail.com', subject: 'Enquiry: Termites Control Service', body: 'Hi Paters Investment,\n\nI am interested in your Termites Control service and would like to know more about pricing and availability.\n\nThank you.' },
   },
   {
     id: 9,
@@ -78,7 +78,7 @@ const services = [
     icon: '📦',
     features: ['Cleaning products', 'Maintenance supplies', 'Bulk orders available', 'Quick delivery'],
     whatsapp: { number: '26876278291', message: 'Hi Paters Investment! I am interested in your General Supplies. Please share more details.' },
-    email: { address: 'paterseinvestment@gmail.com', subject: 'Enquiry: General Supplies', body: 'Hi Paters Investment,\n\nI am interested in your General Supplies and would like to know more about available products and pricing.\n\nThank you.' },
+    email: { address: 'patersinvestment@gmail.com', subject: 'Enquiry: General Supplies', body: 'Hi Paters Investment,\n\nI am interested in your General Supplies and would like to know more about available products and pricing.\n\nThank you.' },
   },
   {
     id: 10,
@@ -87,7 +87,7 @@ const services = [
     icon: '🚪',
     features: ['Custom branding', 'Durable rubber material', 'Various sizes', 'Bulk orders welcome'],
     whatsapp: { number: '26876278291', message: 'Hi Paters Investment! I am interested in your Branded Rubber Door Mats. Please share more details.' },
-    email: { address: 'paterseinvestment@gmail.com', subject: 'Enquiry: Branded Rubber Door Mats', body: 'Hi Paters Investment,\n\nI am interested in your Branded Rubber Door Mats and would like to know more about pricing and customisation options.\n\nThank you.' },
+    email: { address: 'patersinvestment@gmail.com', subject: 'Enquiry: Branded Rubber Door Mats', body: 'Hi Paters Investment,\n\nI am interested in your Branded Rubber Door Mats and would like to know more about pricing and customisation options.\n\nThank you.' },
   },
   {
     id: 11,
@@ -96,7 +96,7 @@ const services = [
     icon: '🏨',
     features: ['Custom branding', 'Premium carpet material', 'Various sizes', 'Bulk orders welcome'],
     whatsapp: { number: '26876278291', message: 'Hi Paters Investment! I am interested in your Branded Carpet Door Mats. Please share more details.' },
-    email: { address: 'paterseinvestment@gmail.com', subject: 'Enquiry: Branded Carpet Door Mats', body: 'Hi Paters Investment,\n\nI am interested in your Branded Carpet Door Mats and would like to know more about pricing and customisation options.\n\nThank you.' },
+    email: { address: 'patersinvestment@gmail.com', subject: 'Enquiry: Branded Carpet Door Mats', body: 'Hi Paters Investment,\n\nI am interested in your Branded Carpet Door Mats and would like to know more about pricing and customisation options.\n\nThank you.' },
   },
 ]
 
